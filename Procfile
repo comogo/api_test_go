@@ -1,1 +1,1 @@
-web: api
+web: api_test_go
